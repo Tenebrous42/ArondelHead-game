@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1510987532 source:c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\inamicallahuakbar.cpp
+	<iostream>
+	"InamicAllahuAkbar.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1510987536 c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\inamicallahuakbar.h
+
+1511774003 source:c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_1.cpp
+	<iostream>
+	"Nivel_1.h"
+	<Windows.h>
+	<stdlib.h>
+	<ctime>
+
+1511774000 c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_1.h
+
+1511774084 source:c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\main.cpp
+	<iostream>
+	<fstream>
+	"Nivel_1.h"
+	"Nivel_2.h"
+	"Nivel_3.h"
+	"Nivel_4.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1511774032 source:c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_2.cpp
+	<iostream>
+	"Nivel_2.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1511774030 c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_2.h
+
+1511774053 c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_3.h
+
+1511774067 c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_4.h
+
+1511774055 source:c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_3.cpp
+	<iostream>
+	"Nivel_3.h"
+	<Windows.h>
+	<ctime>
+
+1511774072 source:c:\users\tudor_pc\desktop\proiecte extra info - c++\arondelhead\arondelhead 1.0\nivel_4.cpp
+	<iostream>
+	"Nivel_4.h"
+
+1525949637 source:c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\main.cpp
+	<iostream>
+	<fstream>
+	"Nivel_1.h"
+	"Nivel_2.h"
+	"Nivel_3.h"
+	"Nivel_4.h"
+	"Magazinul_insulei.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1525949329 c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_1.h
+
+1525949372 c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_2.h
+
+1525949404 c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_3.h
+
+1525949443 c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_4.h
+
+1525949331 source:c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_1.cpp
+	<iostream>
+	"Nivel_1.h"
+	<Windows.h>
+	<stdlib.h>
+	<ctime>
+
+1525949374 source:c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_2.cpp
+	<iostream>
+	"Nivel_2.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1525949405 source:c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_3.cpp
+	<iostream>
+	"Nivel_3.h"
+	<Windows.h>
+	<ctime>
+
+1525949434 source:c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_4.cpp
+	<iostream>
+	"Nivel_4.h"
+
+1525949255 source:c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\magazinul_insulei.cpp
+	<iostream>
+	"Magazinul_insulei.h"
+	<cmath>
+	<windows.h>
+
+1525949253 c:\users\tudor_pc\desktop\proiecte extra info\arondelhead\arondelhead 1.0\magazinul_insulei.h
+
+1525949255 source:c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\magazinul_insulei.cpp
+	<iostream>
+	"Magazinul_insulei.h"
+	<cmath>
+	<windows.h>
+
+1525949253 c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\magazinul_insulei.h
+
+1525949637 source:c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\main.cpp
+	<iostream>
+	<fstream>
+	"Nivel_1.h"
+	"Nivel_2.h"
+	"Nivel_3.h"
+	"Nivel_4.h"
+	"Magazinul_insulei.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1525949329 c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_1.h
+
+1525949372 c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_2.h
+
+1525949404 c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_3.h
+
+1525949443 c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_4.h
+
+1525949331 source:c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_1.cpp
+	<iostream>
+	"Nivel_1.h"
+	<Windows.h>
+	<stdlib.h>
+	<ctime>
+
+1525949374 source:c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_2.cpp
+	<iostream>
+	"Nivel_2.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1525949405 source:c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_3.cpp
+	<iostream>
+	"Nivel_3.h"
+	<Windows.h>
+	<ctime>
+
+1525949434 source:c:\users\tplav\onedrive\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_4.cpp
+	<iostream>
+	"Nivel_4.h"
+
+1525952855 source:c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\magazinul_insulei.cpp
+	<iostream>
+	"Magazinul_insulei.h"
+	<cmath>
+	<windows.h>
+
+1525952853 c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\magazinul_insulei.h
+
+1525953237 source:c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\main.cpp
+	<iostream>
+	<fstream>
+	"Nivel_1.h"
+	"Nivel_2.h"
+	"Nivel_3.h"
+	"Nivel_4.h"
+	"Magazinul_insulei.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1525952929 c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_1.h
+
+1525952972 c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_2.h
+
+1525953004 c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_3.h
+
+1525953043 c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_4.h
+
+1525952931 source:c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_1.cpp
+	<iostream>
+	"Nivel_1.h"
+	<Windows.h>
+	<stdlib.h>
+	<ctime>
+
+1525952974 source:c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_2.cpp
+	<iostream>
+	"Nivel_2.h"
+	<Windows.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
+1525953005 source:c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_3.cpp
+	<iostream>
+	"Nivel_3.h"
+	<Windows.h>
+	<ctime>
+
+1525953034 source:c:\users\tplav\desktop\proiecte extra info\arondelhead\arondelhead 1.0\nivel_4.cpp
+	<iostream>
+	"Nivel_4.h"
+
